@@ -151,5 +151,5 @@ Agradecemos a todos que contribuíram para o desenvolvimento deste projeto. Qual
 ---
 
 ## Prints
-![print CLI](/imagem.png)
+![print CLI](/panda12332145/CyberPando/blob/main/imagem.png)
 
